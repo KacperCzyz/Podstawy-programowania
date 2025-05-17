@@ -1,0 +1,7 @@
+D:\GitHub\Podstawy Programowania\Podstawy-programowania\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+D:\GitHub\Podstawy Programowania\Podstawy-programowania\ConsoleApp\bin\Debug\ConsoleApp.exe
+D:\GitHub\Podstawy Programowania\Podstawy-programowania\ConsoleApp\bin\Debug\ConsoleApp.pdb
+D:\GitHub\Podstawy Programowania\Podstawy-programowania\ConsoleApp\obj\Debug\ConsoleApp.csproj.AssemblyReference.cache
+D:\GitHub\Podstawy Programowania\Podstawy-programowania\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\GitHub\Podstawy Programowania\Podstawy-programowania\ConsoleApp\obj\Debug\ConsoleApp.exe
+D:\GitHub\Podstawy Programowania\Podstawy-programowania\ConsoleApp\obj\Debug\ConsoleApp.pdb
